@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36212.18 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CozyComfortOrderSystem", "CozyComfortOrderSystem\CozyComfortOrderSystem.csproj", "{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CozyBackend", "CozyBackend\CozyBackend.csproj", "{D5C1D04F-DB63-4E3D-82C6-69323B13EC1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5C1D04F-DB63-4E3D-82C6-69323B13EC1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5C1D04F-DB63-4E3D-82C6-69323B13EC1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5C1D04F-DB63-4E3D-82C6-69323B13EC1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5C1D04F-DB63-4E3D-82C6-69323B13EC1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7953FDD4-7F13-4610-BE9A-6C5F6E7AF6AE}
+	EndGlobalSection
+EndGlobal

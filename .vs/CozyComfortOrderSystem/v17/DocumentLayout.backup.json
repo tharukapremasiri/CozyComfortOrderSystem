@@ -1,0 +1,512 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|c:\\users\\tharuka\\source\\repos\\cozycomfortordersystem\\cozycomfortordersystem\\viewdistributororders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|solutionrelative:cozycomfortordersystem\\viewdistributororders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|c:\\users\\tharuka\\source\\repos\\cozycomfortordersystem\\cozycomfortordersystem\\viewdistributorinventory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|solutionrelative:cozycomfortordersystem\\viewdistributorinventory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|c:\\users\\tharuka\\source\\repos\\cozycomfortordersystem\\cozycomfortordersystem\\viewdistributororders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|solutionrelative:cozycomfortordersystem\\viewdistributororders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|c:\\users\\tharuka\\source\\repos\\cozycomfortordersystem\\cozycomfortordersystem\\distributororders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|solutionrelative:cozycomfortordersystem\\distributororders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|c:\\users\\tharuka\\source\\repos\\cozycomfortordersystem\\cozycomfortordersystem\\distributordashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|solutionrelative:cozycomfortordersystem\\distributordashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|c:\\users\\tharuka\\source\\repos\\cozycomfortordersystem\\cozycomfortordersystem\\distributordashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|solutionrelative:cozycomfortordersystem\\distributordashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|c:\\users\\tharuka\\source\\repos\\cozycomfortordersystem\\cozycomfortordersystem\\distributororders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|solutionrelative:cozycomfortordersystem\\distributororders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|c:\\users\\tharuka\\source\\repos\\cozycomfortordersystem\\cozycomfortordersystem\\selleraddorders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|solutionrelative:cozycomfortordersystem\\selleraddorders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|c:\\users\\tharuka\\source\\repos\\cozycomfortordersystem\\cozycomfortordersystem\\selleraddorders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|solutionrelative:cozycomfortordersystem\\selleraddorders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|c:\\users\\tharuka\\source\\repos\\cozycomfortordersystem\\cozycomfortordersystem\\viewdistributorinventory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|solutionrelative:cozycomfortordersystem\\viewdistributorinventory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|c:\\users\\tharuka\\source\\repos\\cozycomfortordersystem\\cozycomfortordersystem\\sellerdashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|solutionrelative:cozycomfortordersystem\\sellerdashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|c:\\users\\tharuka\\source\\repos\\cozycomfortordersystem\\cozycomfortordersystem\\admindashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|solutionrelative:cozycomfortordersystem\\admindashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|c:\\users\\tharuka\\source\\repos\\cozycomfortordersystem\\cozycomfortordersystem\\admindashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|solutionrelative:cozycomfortordersystem\\admindashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|c:\\users\\tharuka\\source\\repos\\cozycomfortordersystem\\cozycomfortordersystem\\viewdistributor.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|solutionrelative:cozycomfortordersystem\\viewdistributor.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|c:\\users\\tharuka\\source\\repos\\cozycomfortordersystem\\cozycomfortordersystem\\viewinventory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|solutionrelative:cozycomfortordersystem\\viewinventory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|c:\\users\\tharuka\\source\\repos\\cozycomfortordersystem\\cozycomfortordersystem\\viewinventory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|solutionrelative:cozycomfortordersystem\\viewinventory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|c:\\users\\tharuka\\source\\repos\\cozycomfortordersystem\\cozycomfortordersystem\\sellerviewinventory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|solutionrelative:cozycomfortordersystem\\sellerviewinventory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|c:\\users\\tharuka\\source\\repos\\cozycomfortordersystem\\cozycomfortordersystem\\sellerdashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|solutionrelative:cozycomfortordersystem\\sellerdashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|c:\\users\\tharuka\\source\\repos\\cozycomfortordersystem\\cozycomfortordersystem\\viewdistributor.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|solutionrelative:cozycomfortordersystem\\viewdistributor.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|c:\\users\\tharuka\\source\\repos\\cozycomfortordersystem\\cozycomfortordersystem\\sellerviewinventory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|solutionrelative:cozycomfortordersystem\\sellerviewinventory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|c:\\users\\tharuka\\source\\repos\\cozycomfortordersystem\\cozycomfortordersystem\\selleraddinventory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|solutionrelative:cozycomfortordersystem\\selleraddinventory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|c:\\users\\tharuka\\source\\repos\\cozycomfortordersystem\\cozycomfortordersystem\\addinventory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|solutionrelative:cozycomfortordersystem\\addinventory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|c:\\users\\tharuka\\source\\repos\\cozycomfortordersystem\\cozycomfortordersystem\\selleraddinventory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|solutionrelative:cozycomfortordersystem\\selleraddinventory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|c:\\users\\tharuka\\source\\repos\\cozycomfortordersystem\\cozycomfortordersystem\\addinventory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|solutionrelative:cozycomfortordersystem\\addinventory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|c:\\users\\tharuka\\source\\repos\\cozycomfortordersystem\\cozycomfortordersystem\\addproduction.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|solutionrelative:cozycomfortordersystem\\addproduction.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\cozycomfortordersystem\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|solutionrelative:cozycomfortordersystem\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|c:\\users\\tharuka\\source\\repos\\cozycomfortordersystem\\cozycomfortordersystem\\css\\formstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|solutionrelative:cozycomfortordersystem\\css\\formstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|c:\\users\\tharuka\\source\\repos\\cozycomfortordersystem\\cozycomfortordersystem\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|solutionrelative:cozycomfortordersystem\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\cozycomfortordersystem\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD5A43F5-3E60-4BA9-94DF-0DD3739FF312}|CozyComfortOrderSystem\\CozyComfortOrderSystem.csproj|solutionrelative:cozycomfortordersystem\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "viewDistributorOrders.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\viewDistributorOrders.aspx.cs",
+              "RelativeDocumentMoniker": "CozyComfortOrderSystem\\viewDistributorOrders.aspx.cs",
+              "ToolTip": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\viewDistributorOrders.aspx.cs",
+              "RelativeToolTip": "CozyComfortOrderSystem\\viewDistributorOrders.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T01:03:25.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "viewDistributorOrders.aspx",
+              "DocumentMoniker": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\viewDistributorOrders.aspx",
+              "RelativeDocumentMoniker": "CozyComfortOrderSystem\\viewDistributorOrders.aspx",
+              "ToolTip": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\viewDistributorOrders.aspx",
+              "RelativeToolTip": "CozyComfortOrderSystem\\viewDistributorOrders.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-28T01:01:29.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "distributorOrders.aspx",
+              "DocumentMoniker": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\distributorOrders.aspx",
+              "RelativeDocumentMoniker": "CozyComfortOrderSystem\\distributorOrders.aspx",
+              "ToolTip": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\distributorOrders.aspx",
+              "RelativeToolTip": "CozyComfortOrderSystem\\distributorOrders.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-28T00:36:21.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "viewDistributorInventory.aspx",
+              "DocumentMoniker": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\viewDistributorInventory.aspx",
+              "RelativeDocumentMoniker": "CozyComfortOrderSystem\\viewDistributorInventory.aspx",
+              "ToolTip": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\viewDistributorInventory.aspx",
+              "RelativeToolTip": "CozyComfortOrderSystem\\viewDistributorInventory.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-27T15:28:33.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "distributorOrders.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\distributorOrders.aspx.cs",
+              "RelativeDocumentMoniker": "CozyComfortOrderSystem\\distributorOrders.aspx.cs",
+              "ToolTip": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\distributorOrders.aspx.cs",
+              "RelativeToolTip": "CozyComfortOrderSystem\\distributorOrders.aspx.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T00:48:44.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "distributorDashboard.aspx",
+              "DocumentMoniker": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\distributorDashboard.aspx",
+              "RelativeDocumentMoniker": "CozyComfortOrderSystem\\distributorDashboard.aspx",
+              "ToolTip": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\distributorDashboard.aspx",
+              "RelativeToolTip": "CozyComfortOrderSystem\\distributorDashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-27T15:16:44.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "distributorDashboard.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\distributorDashboard.aspx.cs",
+              "RelativeDocumentMoniker": "CozyComfortOrderSystem\\distributorDashboard.aspx.cs",
+              "ToolTip": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\distributorDashboard.aspx.cs",
+              "RelativeToolTip": "CozyComfortOrderSystem\\distributorDashboard.aspx.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwBYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T15:27:47.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "sellerAddOrders.aspx",
+              "DocumentMoniker": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\sellerAddOrders.aspx",
+              "RelativeDocumentMoniker": "CozyComfortOrderSystem\\sellerAddOrders.aspx",
+              "ToolTip": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\sellerAddOrders.aspx",
+              "RelativeToolTip": "CozyComfortOrderSystem\\sellerAddOrders.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-27T14:44:39.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "sellerAddOrders.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\sellerAddOrders.aspx.cs",
+              "RelativeDocumentMoniker": "CozyComfortOrderSystem\\sellerAddOrders.aspx.cs",
+              "ToolTip": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\sellerAddOrders.aspx.cs",
+              "RelativeToolTip": "CozyComfortOrderSystem\\sellerAddOrders.aspx.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA+wBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T14:49:51.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "sellerDashboard.aspx",
+              "DocumentMoniker": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\sellerDashboard.aspx",
+              "RelativeDocumentMoniker": "CozyComfortOrderSystem\\sellerDashboard.aspx",
+              "ToolTip": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\sellerDashboard.aspx",
+              "RelativeToolTip": "CozyComfortOrderSystem\\sellerDashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-27T14:18:43.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "viewDistributorInventory.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\viewDistributorInventory.aspx.cs",
+              "RelativeDocumentMoniker": "CozyComfortOrderSystem\\viewDistributorInventory.aspx.cs",
+              "ToolTip": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\viewDistributorInventory.aspx.cs",
+              "RelativeToolTip": "CozyComfortOrderSystem\\viewDistributorInventory.aspx.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T15:29:44.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminDashboard.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\AdminDashboard.aspx.cs",
+              "RelativeDocumentMoniker": "CozyComfortOrderSystem\\AdminDashboard.aspx.cs",
+              "ToolTip": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\AdminDashboard.aspx.cs",
+              "RelativeToolTip": "CozyComfortOrderSystem\\AdminDashboard.aspx.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T10:36:17.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminDashboard.aspx",
+              "DocumentMoniker": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\AdminDashboard.aspx",
+              "RelativeDocumentMoniker": "CozyComfortOrderSystem\\AdminDashboard.aspx",
+              "ToolTip": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\AdminDashboard.aspx",
+              "RelativeToolTip": "CozyComfortOrderSystem\\AdminDashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-27T10:28:20.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "viewDistributor.aspx",
+              "DocumentMoniker": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\viewDistributor.aspx",
+              "RelativeDocumentMoniker": "CozyComfortOrderSystem\\viewDistributor.aspx",
+              "ToolTip": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\viewDistributor.aspx",
+              "RelativeToolTip": "CozyComfortOrderSystem\\viewDistributor.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-27T15:11:14.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "viewInventory.aspx",
+              "DocumentMoniker": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\viewInventory.aspx",
+              "RelativeDocumentMoniker": "CozyComfortOrderSystem\\viewInventory.aspx",
+              "ToolTip": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\viewInventory.aspx",
+              "RelativeToolTip": "CozyComfortOrderSystem\\viewInventory.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-27T11:28:42.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "sellerViewInventory.aspx",
+              "DocumentMoniker": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\sellerViewInventory.aspx",
+              "RelativeDocumentMoniker": "CozyComfortOrderSystem\\sellerViewInventory.aspx",
+              "ToolTip": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\sellerViewInventory.aspx",
+              "RelativeToolTip": "CozyComfortOrderSystem\\sellerViewInventory.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-27T14:55:09.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "viewInventory.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\viewInventory.aspx.cs",
+              "RelativeDocumentMoniker": "CozyComfortOrderSystem\\viewInventory.aspx.cs",
+              "ToolTip": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\viewInventory.aspx.cs",
+              "RelativeToolTip": "CozyComfortOrderSystem\\viewInventory.aspx.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T13:15:41.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "viewDistributor.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\viewDistributor.aspx.cs",
+              "RelativeDocumentMoniker": "CozyComfortOrderSystem\\viewDistributor.aspx.cs",
+              "ToolTip": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\viewDistributor.aspx.cs",
+              "RelativeToolTip": "CozyComfortOrderSystem\\viewDistributor.aspx.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T15:14:28.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "sellerDashboard.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\sellerDashboard.aspx.cs",
+              "RelativeDocumentMoniker": "CozyComfortOrderSystem\\sellerDashboard.aspx.cs",
+              "ToolTip": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\sellerDashboard.aspx.cs",
+              "RelativeToolTip": "CozyComfortOrderSystem\\sellerDashboard.aspx.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T14:23:53.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "sellerViewInventory.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\sellerViewInventory.aspx.cs",
+              "RelativeDocumentMoniker": "CozyComfortOrderSystem\\sellerViewInventory.aspx.cs",
+              "ToolTip": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\sellerViewInventory.aspx.cs",
+              "RelativeToolTip": "CozyComfortOrderSystem\\sellerViewInventory.aspx.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T15:09:21.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "sellerAddInventory.aspx",
+              "DocumentMoniker": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\sellerAddInventory.aspx",
+              "RelativeDocumentMoniker": "CozyComfortOrderSystem\\sellerAddInventory.aspx",
+              "ToolTip": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\sellerAddInventory.aspx",
+              "RelativeToolTip": "CozyComfortOrderSystem\\sellerAddInventory.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-27T14:42:28.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "addInventory.aspx",
+              "DocumentMoniker": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\addInventory.aspx",
+              "RelativeDocumentMoniker": "CozyComfortOrderSystem\\addInventory.aspx",
+              "ToolTip": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\addInventory.aspx",
+              "RelativeToolTip": "CozyComfortOrderSystem\\addInventory.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-27T13:34:40.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "sellerAddInventory.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\sellerAddInventory.aspx.cs",
+              "RelativeDocumentMoniker": "CozyComfortOrderSystem\\sellerAddInventory.aspx.cs",
+              "ToolTip": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\sellerAddInventory.aspx.cs",
+              "RelativeToolTip": "CozyComfortOrderSystem\\sellerAddInventory.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T14:43:27.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "addInventory.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\addInventory.aspx.cs",
+              "RelativeDocumentMoniker": "CozyComfortOrderSystem\\addInventory.aspx.cs",
+              "ToolTip": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\addInventory.aspx.cs",
+              "RelativeToolTip": "CozyComfortOrderSystem\\addInventory.aspx.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T13:51:00.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "addProduction.aspx",
+              "DocumentMoniker": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\addProduction.aspx",
+              "RelativeDocumentMoniker": "CozyComfortOrderSystem\\addProduction.aspx",
+              "ToolTip": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\addProduction.aspx",
+              "RelativeToolTip": "CozyComfortOrderSystem\\addProduction.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-27T14:14:27.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "stylesheet.css",
+              "DocumentMoniker": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\css\\stylesheet.css",
+              "RelativeDocumentMoniker": "CozyComfortOrderSystem\\css\\stylesheet.css",
+              "ToolTip": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\css\\stylesheet.css",
+              "RelativeToolTip": "CozyComfortOrderSystem\\css\\stylesheet.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-26T13:47:43.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "formstyle.css",
+              "DocumentMoniker": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\css\\formstyle.css",
+              "RelativeDocumentMoniker": "CozyComfortOrderSystem\\css\\formstyle.css",
+              "ToolTip": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\css\\formstyle.css",
+              "RelativeToolTip": "CozyComfortOrderSystem\\css\\formstyle.css",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwCYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-27T13:55:43.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\login.aspx.cs",
+              "RelativeDocumentMoniker": "CozyComfortOrderSystem\\login.aspx.cs",
+              "ToolTip": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\login.aspx.cs",
+              "RelativeToolTip": "CozyComfortOrderSystem\\login.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:16:37.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "login.aspx",
+              "DocumentMoniker": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\login.aspx",
+              "RelativeDocumentMoniker": "CozyComfortOrderSystem\\login.aspx",
+              "ToolTip": "C:\\Users\\tharuka\\source\\repos\\CozyComfortOrderSystem\\CozyComfortOrderSystem\\login.aspx",
+              "RelativeToolTip": "CozyComfortOrderSystem\\login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-26T13:44:49.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
